@@ -59,8 +59,9 @@ function App() {
           setError(data.message);
         } else {
           setData(data);
+          setError(null);
         }
-        setData(data);
+        
       });
   };
 
