@@ -14,3 +14,5 @@ Before running this application locally, ensure you have the following installed
 To run this React application locally, follow these steps:
 
 1. **Clone the repository:**
+
+https://github.com/pankajsaini2562/githubSearchApp.git
